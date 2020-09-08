@@ -1,1 +1,1 @@
-# node-test
+# selenium automation script
